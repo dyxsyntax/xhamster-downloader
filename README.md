@@ -27,9 +27,9 @@ Scripts entire made of bash scripts and basic unix tools, to:
   1. Just crawls already downloaded files in executed folder
   1.1 Folderstructure must be like 'executed folder'/'mp4 file folder'
   2. Randomize filename of every \*.mp4 
-  3. Screencap via **vcs
-  4. Zip via **7zip
-  5. Upload \*.mp4 via **plowup
+  3. Screencap via [**vcs**](http://p.outlyer.net/vcs)
+  4. Zip via [**7zip**](https://wiki.ubuntuusers.de/7z/)
+  5. Upload \*.mp4 via [**plowup**](https://github.com/mcrapet/plowshare)
   6. Upload screencap to imgur
   7. Generate BB-Code encoded forum post and store it in folder
   
