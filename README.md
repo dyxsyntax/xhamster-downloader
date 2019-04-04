@@ -35,8 +35,8 @@ Scripts entire made of bash scripts and basic unix tools, to:
   
 *auto_hamster.sh*
 
-  Combines link_ and search_hamster.sh by complete link_hamster task and continues
-  at step 2 in search_hamster
+    Combines link_ and search_hamster.sh by complete link_hamster task and continues
+    at step 2 in search_hamster
 
 *hamster_starter.sh*
   1. Check if *youtube-dl* process is running       / quit if so
